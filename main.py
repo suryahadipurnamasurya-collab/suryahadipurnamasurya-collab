@@ -1,0 +1,1 @@
+print(f"hallo nama saya suryahadi")
