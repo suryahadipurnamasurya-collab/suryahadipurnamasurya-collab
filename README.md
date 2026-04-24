@@ -36,7 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 -->
-
-
-#ini adalah test dan kalian bisa untuk mengcopi ini ke github kalian
-#terima kasih
