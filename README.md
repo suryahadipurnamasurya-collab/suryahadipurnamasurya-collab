@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Im a college students 👨🏻‍🎓<br>Im Indonesian people 🇮🇩<br>I like playing game and coding 👨🏻‍💻<br>I am frontend dev 🖥️<br>I am game dev 🎮<br>I hope we can make a friend 😊<br><br>Software development enthusiast. Currently focusing on building clean, efficient code and solving complex problems<br><br>
+Im a college students 👨🏻‍🎓<br>Im Indonesian people 🇮🇩<br>I like playing game and coding 👨🏻‍💻<br>I am AI engginering 🖥️<br>I am Robotics engginering 🎮<br>I hope we can make a friend 😊<br><br>Robotics and AI development enthusiast. Currently focusing on building clean, efficient code and solving complex problems<br><br>
 
 
 ## 🌐 Socials:
